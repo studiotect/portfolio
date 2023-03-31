@@ -86,7 +86,7 @@ a.contact {
 a.projects {
   display: block;
   position: relative;
-  top: 0px;
+  top: 40px;
   visibility: hidden;
 }  
 .projects {
@@ -98,9 +98,11 @@ a.projects {
 }
 .card:first-child {
   flex: 1 1 2800px;
+  width: 100%;
 }
 .card:first-child img {
-  outline: 3px solid red;
+  flex: 1 1 2800px;
+  width: 100%;
 }
 .card {
   display: flex;

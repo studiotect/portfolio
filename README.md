@@ -27,14 +27,14 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
+## Screenshot
 
-## Review
+Here is a screenshot of the homepage.
 
-You are required to submit BOTH of the following for review:
+![Here's a screenshot of the home page](./assets/images/screenshot.jpg)
 
-* The URL of the deployed application.
+## Links
 
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+The live webpage can be viewed here: [https://studiotect.github.io/portfolio/](https://studiotect.github.io/portfolio/)
 
-- - -
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+The repo can be viewed here: [https://github.com/studiotect/portfolio](https://github.com/studiotect/portfolio)
